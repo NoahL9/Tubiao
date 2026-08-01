@@ -1,6 +1,6 @@
 {
 "name":"long", 
-"description":"在原作者Softlyx的基础上新增，图标按照服名或群名命名，按照A-Z排列，方便查找。可以在图标搜索框搜索图标名，缺少的图标可投稿。", 
+"description":"图标按照服名或群名命名，按照A-Z排列", 
 "icons":
     [
 	{"name":"long", "url":"https://img.lgn.de5.net/file/1785499091298_IMG_6769.jpeg"},
